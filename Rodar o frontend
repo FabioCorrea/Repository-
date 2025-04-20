@@ -1,0 +1,3 @@
+cd ../descascador-frontend
+npm install
+npm run dev       # inicia em http://localhost:3000
